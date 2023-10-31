@@ -3,8 +3,8 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import AppHeader from '../../components/app.header';
-import AppFooter from '../../components/app.footer';
+import AppHeader from '../components/app.header';
+import AppFooter from '../components/app.footer';
 import Container from 'react-bootstrap/Container';
 
 const inter = Inter({ subsets: ['latin'] })
